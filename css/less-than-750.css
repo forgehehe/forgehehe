@@ -1,0 +1,14 @@
+@media screen and (max-width: 750px) {
+    #banner > div > h1 {
+        font-size: 3rem;
+    }
+
+    #name {
+        display: block;
+    }
+
+    #profile-pic {
+        transform: translateY(2rem);
+        margin-top: 2rem;
+    }
+}
